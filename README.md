@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhukar2016
 - 👀 I’m interested in ... Frontend Development
-- 🌱 I’m currently learning ... NextJs,NodeJs
+- 🌱 I’m currently working with ... NextJs,NodeJs,Express Js
 - 💞️ I’m looking to collaborate on ... NextJs projects
 - 📫 How to reach me ... mm.thedependable@gmail.com
 - 😄 Pronouns: ...
